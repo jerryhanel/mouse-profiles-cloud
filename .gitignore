@@ -1,0 +1,17 @@
+## Secrets - never commit real config
+appsettings.json
+appsettings.Development.json
+
+## Build outputs
+bin/
+obj/
+
+## VS / Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+## OS
+Thumbs.db
+.DS_Store
